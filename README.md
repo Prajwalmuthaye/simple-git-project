@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/simple-git-project.git
 ```
 3. Navigate to Project Folder
 ```
-cd simple-git-project
+cd "//enter project Folder Name\\"
 ```
 5. Open the Webpage
 
